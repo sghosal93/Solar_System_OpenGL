@@ -1,0 +1,344 @@
+The system is: Windows - 10.0.10586 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/19/2016 12:58:46 AM.
+Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\3.6.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\3.6.2\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\3.6.2\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.73
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/3.6.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/19/2016 12:58:47 AM.
+Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\3.6.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\3.6.2\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\3.6.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.64
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/3.6.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_a7e90.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/19/2016 12:58:48 AM.
+Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_a7e90.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_a7e90.dir\Debug\".
+  Creating directory "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_a7e90.dir\Debug\cmTC_a7e90.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_a7e90.dir\Debug\cmTC_a7e90.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a7e90.dir\Debug\\" /Fd"cmTC_a7e90.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a7e90.dir\Debug\\" /Fd"cmTC_a7e90.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_a7e90.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_a7e90.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_a7e90.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_a7e90.dir\Debug\testCCompiler.obj
+  cmTC_a7e90.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_a7e90.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_a7e90.dir\Debug\cmTC_a7e90.tlog\unsuccessfulbuild".
+  Touching "cmTC_a7e90.dir\Debug\cmTC_a7e90.tlog\cmTC_a7e90.lastbuildstate".
+Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_a7e90.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.03
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_69d50.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/19/2016 12:58:50 AM.
+Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_69d50.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_69d50.dir\Debug\".
+  Creating directory "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_69d50.dir\Debug\cmTC_69d50.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_69d50.dir\Debug\cmTC_69d50.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_69d50.dir\Debug\\" /Fd"cmTC_69d50.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_69d50.dir\Debug\\" /Fd"cmTC_69d50.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_69d50.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_69d50.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_69d50.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_69d50.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_69d50.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_69d50.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_69d50.dir\Debug\cmTC_69d50.tlog\unsuccessfulbuild".
+  Touching "cmTC_69d50.dir\Debug\cmTC_69d50.tlog\cmTC_69d50.lastbuildstate".
+Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_69d50.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.78
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_61b67.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/19/2016 12:58:51 AM.
+Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_61b67.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_61b67.dir\Debug\".
+  Creating directory "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_61b67.dir\Debug\cmTC_61b67.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_61b67.dir\Debug\cmTC_61b67.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_61b67.dir\Debug\\" /Fd"cmTC_61b67.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_61b67.dir\Debug\\" /Fd"cmTC_61b67.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_61b67.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_61b67.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_61b67.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_61b67.dir\Debug\testCXXCompiler.obj
+  cmTC_61b67.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_61b67.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_61b67.dir\Debug\cmTC_61b67.tlog\unsuccessfulbuild".
+  Touching "cmTC_61b67.dir\Debug\cmTC_61b67.tlog\cmTC_61b67.lastbuildstate".
+Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_61b67.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.73
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_b8c6e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/19/2016 12:58:51 AM.
+Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_b8c6e.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_b8c6e.dir\Debug\".
+  Creating directory "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_b8c6e.dir\Debug\cmTC_b8c6e.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_b8c6e.dir\Debug\cmTC_b8c6e.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_b8c6e.dir\Debug\\" /Fd"cmTC_b8c6e.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_b8c6e.dir\Debug\\" /Fd"cmTC_b8c6e.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_b8c6e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_b8c6e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_b8c6e.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_b8c6e.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_b8c6e.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_b8c6e.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_b8c6e.dir\Debug\cmTC_b8c6e.tlog\unsuccessfulbuild".
+  Touching "cmTC_b8c6e.dir\Debug\cmTC_b8c6e.tlog\cmTC_b8c6e.lastbuildstate".
+Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_b8c6e.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.75
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_a31e7.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/19/2016 12:58:53 AM.
+Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_a31e7.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_a31e7.dir\Debug\".
+  Creating directory "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_a31e7.dir\Debug\cmTC_a31e7.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_a31e7.dir\Debug\cmTC_a31e7.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_a31e7.dir\Debug\\" /Fd"cmTC_a31e7.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_a31e7.dir\Debug\\" /Fd"cmTC_a31e7.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_a31e7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_a31e7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/CMakeTmp/Debug/cmTC_a31e7.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_a31e7.dir\Debug\feature_tests.obj
+  cmTC_a31e7.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\Debug\cmTC_a31e7.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_a31e7.dir\Debug\cmTC_a31e7.tlog\unsuccessfulbuild".
+  Touching "cmTC_a31e7.dir\Debug\cmTC_a31e7.tlog\cmTC_a31e7.lastbuildstate".
+Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeFiles\CMakeTmp\cmTC_a31e7.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.73
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

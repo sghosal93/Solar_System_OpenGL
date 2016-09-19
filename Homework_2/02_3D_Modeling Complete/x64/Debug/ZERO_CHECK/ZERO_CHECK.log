@@ -1,0 +1,10 @@
+﻿Build started 9/19/2016 11:26:47 AM.
+     1>Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\ZERO_CHECK.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\ZERO_CHECK.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.28

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\hw2_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\controls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\HCI557Common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CoordSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\controls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\HCI557Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CoordSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{044D5A61-6DD1-3CC5-840E-21ADEA825454}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6930E76D-B355-3D1C-9C3C-57AF2557C28D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

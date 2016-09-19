@@ -1,0 +1,16 @@
+﻿Build started 9/19/2016 5:26:58 PM.
+     1>Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\HW2_Program.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\include" /nologo /W3 /WX- /O2 /Ob2 /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\hw2_main.cpp"
+         hw2_main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\x64\Release\HW2_Program.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\lib" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\lib\glew32.lib" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\lib\Release\glfw.lib" glu32.lib opengl32.lib glu32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/Release/HW2_Program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/assignments/02_3D_Modeling/Release/HW2_Program.lib" /MACHINE:X64 x64\Release\hw2_main.obj
+         x64\Release\controls.obj
+         x64\Release\HCI557Common.obj
+         x64\Release\CoordSystem.obj
+         HW2_Program.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\x64\Release\HW2_Program.exe
+     1>Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\assignments\02_3D_Modeling\HW2_Program.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.21
