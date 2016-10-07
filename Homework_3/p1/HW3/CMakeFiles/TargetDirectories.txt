@@ -1,3 +1,0 @@
-C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/HW3/CMakeFiles/HW3.dir
-C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/HW3/CMakeFiles/ALL_BUILD.dir
-C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/HW3/CMakeFiles/ZERO_CHECK.dir
