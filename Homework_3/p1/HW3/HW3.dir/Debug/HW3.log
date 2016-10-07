@@ -1,0 +1,42 @@
+﻿Build started 10/7/2016 1:39:18 PM.
+     1>Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\HW3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\include" /I"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\..\gl_common" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"HW3.dir\Debug\\" /Fd"HW3.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp"
+         GLSphere.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(328): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(399): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(471): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(543): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(615): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(709): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1016): warning C4305: '=' : truncation from 'double' to 'float'
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1036): warning C4305: '=' : truncation from 'double' to 'float'
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1292): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1299): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1300): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1301): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1306): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1307): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1308): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1312): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1313): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1314): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1318): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1319): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\GLSphere.cpp(1320): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\Debug\HW3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\lib" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\lib\glew32.lib" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\lib\Release\glfw.lib" glu32.lib opengl32.lib glu32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/HW3/Debug/HW3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/HW3/Debug/HW3.lib" /MACHINE:X64  /machine:x64 HW3.dir\Debug\main_multiballs.obj
+         HW3.dir\Debug\GLSphere.obj
+         HW3.dir\Debug\HCI557Common.obj
+         HW3.dir\Debug\controls.obj
+         HW3.dir\Debug\CoordSystem.obj
+         HW3.dir\Debug\GLObject.obj
+         HW3.dir\Debug\Shaders.obj
+         HW3.dir\Debug\GLAppearance.obj
+         HW3.dir\Debug\camera.obj
+         HW3.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\Debug\HW3.exe
+     1>Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\HW3\HW3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.92
