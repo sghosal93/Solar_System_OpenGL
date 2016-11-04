@@ -1,0 +1,10 @@
+﻿Build started 11/4/2016 12:35:53 PM.
+     1>Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/11_Simple_Textures/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08

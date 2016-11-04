@@ -1,0 +1,3 @@
+C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/11_Simple_Textures/CMakeFiles/HCI557_Simple_Texture.dir
+C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/11_Simple_Textures/CMakeFiles/ALL_BUILD.dir
+C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/11_Simple_Textures/CMakeFiles/ZERO_CHECK.dir

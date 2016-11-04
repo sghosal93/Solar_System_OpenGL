@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\CMakeFiles\ad8c252d9a8de6d605b749a98d48b93f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4590281D-24DD-3AE2-8E9C-CB2E7C7F9C82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

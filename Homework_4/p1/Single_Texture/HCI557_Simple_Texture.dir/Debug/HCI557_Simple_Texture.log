@@ -1,0 +1,74 @@
+﻿Build started 11/4/2016 12:35:53 PM.
+     1>Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\HCI557_Simple_Texture.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/11_Simple_Textures/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\include" /I"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\..\gl_common" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"HCI557_Simple_Texture.dir\Debug\\" /Fd"HCI557_Simple_Texture.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\HCI557Common.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\controls.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\CoordSystem.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLObject.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Shaders.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Texture.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLAppearance.cpp" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\camera.cpp"
+         main_simple_texture.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp(73): warning C4316: 'CoordSystem' : object allocated on the heap may not be aligned 16
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp(81): warning C4305: '=' : truncation from 'double' to 'float'
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp(92): warning C4305: '=' : truncation from 'double' to 'float'
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp(95): warning C4305: '=' : truncation from 'double' to 'float'
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp(125): warning C4316: 'GLPlane3D' : object allocated on the heap may not be aligned 16
+         HCI557Common.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\HCI557Common.cpp(128): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\HCI557Common.cpp(129): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\HCI557Common.cpp(238): warning C4305: 'return' : truncation from 'int' to 'bool'
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\HCI557Common.cpp(247): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+         controls.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\controls.cpp(43): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\controls.cpp(46): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\controls.cpp(54): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         CoordSystem.cpp
+         GLObject.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLObject.cpp(24): error C2719: 'trackball': formal parameter with __declspec(align('16')) won't be aligned
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLObject.cpp(37): error C2719: 'orientation': formal parameter with __declspec(align('16')) won't be aligned
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLObject.cpp(69): error C2719: 'viewmatrix': formal parameter with __declspec(align('16')) won't be aligned
+         GLSphere.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(283): warning C4018: '<' : signed/unsigned mismatch
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(346): warning C4018: '<' : signed/unsigned mismatch
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(359): warning C4018: '<' : signed/unsigned mismatch
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(561): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(562): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(563): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(568): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(569): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(570): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(574): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(575): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(576): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(580): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(581): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\GLSphere.cpp(582): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Shaders.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Shaders.cpp(195): warning C4244: 'argument' : conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+         Plane3D.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp(147): warning C4018: '<' : signed/unsigned mismatch
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp(223): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp(224): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp(229): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp(230): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp(235): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp(236): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp(241): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Plane3D.cpp(242): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Texture.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Texture.cpp(69): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\Texture.cpp(668): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         GLAppearance.cpp
+         camera.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\camera.cpp(155): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\camera.cpp(156): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\gl_common\camera.cpp(167): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+     1>c:\users\sambuddha ghosal\documents\hci-557-cg\gl_common\hci557common.cpp(92): warning C4715: 'GetCurrentCameraTranslation' : not all control paths return a value
+     1>c:\users\sambuddha ghosal\documents\hci-557-cg\gl_common\hci557common.cpp(75): warning C4715: 'GetCurrentCameraMatrix' : not all control paths return a value
+     1>Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\HCI557_Simple_Texture.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.73

@@ -1,0 +1,26 @@
+﻿Build started 11/4/2016 12:38:38 PM.
+     1>Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\HCI557_Simple_Texture.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\include" /I"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\..\gl_common" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp"
+         main_simple_texture.cpp
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp(81): warning C4305: '=' : truncation from 'double' to 'float'
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp(92): warning C4305: '=' : truncation from 'double' to 'float'
+     1>C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\main_simple_texture.cpp(95): warning C4305: '=' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\x64\Debug\HCI557_Simple_Texture.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\lib\glew32.lib" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\lib\Release\glfw.lib" glu32.lib opengl32.lib glu32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/11_Simple_Textures/Debug/HCI557_Simple_Texture.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Sambuddha Ghosal/Documents/HCI-557-CG/11_Simple_Textures/Debug/HCI557_Simple_Texture.lib" /MACHINE:X64 x64\Debug\main_simple_texture.obj
+         x64\Debug\HCI557Common.obj
+         x64\Debug\controls.obj
+         x64\Debug\CoordSystem.obj
+         x64\Debug\GLObject.obj
+         x64\Debug\GLSphere.obj
+         x64\Debug\Shaders.obj
+         x64\Debug\Plane3D.obj
+         x64\Debug\Texture.obj
+         x64\Debug\GLAppearance.obj
+         x64\Debug\camera.obj
+         HCI557_Simple_Texture.vcxproj -> C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\x64\Debug\HCI557_Simple_Texture.exe
+     1>Done Building Project "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\11_Simple_Textures\HCI557_Simple_Texture.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99

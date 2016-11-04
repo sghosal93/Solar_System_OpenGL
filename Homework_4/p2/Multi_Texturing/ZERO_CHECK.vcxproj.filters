@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\13_Multi_Texturing\CMakeFiles\836957ee5256ea2e3e6285e0d18d8afe\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{543D240C-DABA-314A-B863-5B4204FDE5E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
