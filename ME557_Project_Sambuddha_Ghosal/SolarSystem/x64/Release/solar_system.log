@@ -1,0 +1,19 @@
+﻿Build started 12/15/2016 8:57:34 AM.
+     1>Project "C:\Users\Sambuddha Ghosal\Desktop\SolarSystem\solar_system.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\include" /Zi /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _CONSOLE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sambuddha Ghosal\Desktop\SolarSystem\x64\Release\solar_system.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\lib" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\freeglut\lib\x64\freeglut.lib" glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sambuddha Ghosal\Desktop\SolarSystem\x64\Release\solar_system.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sambuddha Ghosal\Desktop\SolarSystem\x64\Release\solar_system.lib" /MACHINE:X64 x64\Release\camera.obj
+         x64\Release\main.obj
+         x64\Release\moon.obj
+         x64\Release\planet.obj
+         x64\Release\solarsystem.obj
+         x64\Release\tga.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+         solar_system.vcxproj -> C:\Users\Sambuddha Ghosal\Desktop\SolarSystem\x64\Release\solar_system.exe
+     1>Done Building Project "C:\Users\Sambuddha Ghosal\Desktop\SolarSystem\solar_system.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.87

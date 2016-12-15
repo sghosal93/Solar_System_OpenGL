@@ -1,0 +1,35 @@
+﻿Build started 12/7/2016 1:55:16 PM.
+     1>Project "C:\Users\Sambuddha Ghosal\Desktop\solarsystem-master - Copy (2)\solar_system.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Sambuddha Ghosal\Desktop\solarsystem-master - Copy (2)\GL Files\include\GL" /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt camera.cpp main.cpp moon.cpp planet.cpp solarsystem.cpp tga.cpp
+         camera.cpp
+     1>camera.cpp(113): warning C4305: 'argument' : truncation from 'double' to 'float'
+         main.cpp
+         moon.cpp
+         planet.cpp
+     1>planet.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+     1>planet.cpp(55): warning C4018: '<' : signed/unsigned mismatch
+     1>planet.cpp(109): warning C4018: '<' : signed/unsigned mismatch
+         solarsystem.cpp
+     1>solarsystem.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+     1>solarsystem.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+     1>solarsystem.cpp(44): warning C4018: '<' : signed/unsigned mismatch
+         tga.cpp
+     1>tga.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>tga.cpp(39): warning C4101: 'j' : unreferenced local variable
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sambuddha Ghosal\Desktop\solarsystem-master - Copy (2)\Release\solar_system.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Sambuddha Ghosal\Desktop\solarsystem-master - Copy (2)\GL Files\lib" "C:\Users\Sambuddha Ghosal\Documents\HCI-557-CG\SDK\freeglut\lib\freeglut.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sambuddha Ghosal\Desktop\solarsystem-master - Copy (2)\Release\solar_system.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sambuddha Ghosal\Desktop\solarsystem-master - Copy (2)\Release\solar_system.lib" /MACHINE:X86 /SAFESEH Release\camera.obj
+         Release\main.obj
+         Release\moon.obj
+         Release\planet.obj
+         Release\solarsystem.obj
+         Release\tga.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+         solar_system.vcxproj -> C:\Users\Sambuddha Ghosal\Desktop\solarsystem-master - Copy (2)\Release\solar_system.exe
+     1>Done Building Project "C:\Users\Sambuddha Ghosal\Desktop\solarsystem-master - Copy (2)\solar_system.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.77
