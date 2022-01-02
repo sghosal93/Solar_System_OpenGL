@@ -1,2 +1,2 @@
-# sghosal_557_2015_sg
+# A simple Solar system model using OpenGL and C++
 ME557 Projects
